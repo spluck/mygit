@@ -1,3 +1,4 @@
+# 路由文件
 from django.conf.urls import url
 from web.views import index
 
